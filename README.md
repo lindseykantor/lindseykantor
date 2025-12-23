@@ -1,7 +1,7 @@
 ## Hi I'm Lindsey 👋
 
 🎓 Sophomore at Duke University studying Computer Science (AI/ML)  
-💻 Interested in Software Engineering & early-career tech programs  
+💻 Interested in Software Engineering & Product  
 🧠 Experience with Java, Python, data structures, and algorithms 
 
 📂 Featured Projects:
