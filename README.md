@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi I'm Lindsey 👋
+
+🎓 Sophomore at Duke University studying Computer Science (AI/ML)  
+💻 Interested in Software Engineering & early-career tech programs  
+🧠 Experience with Java, Python, data structures, and algorithms 
+
+📂 Featured Projects:
+- [Project Name](link): one-line description
+- [Project Name](link): one-line description
+
+📫 Reach me at: lindsey.kantor@duke.edu
 
 <!--
 **lindseykantor/lindseykantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
