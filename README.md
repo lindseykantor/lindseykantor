@@ -6,7 +6,6 @@
 
 📂 Featured Projects:
 - [Autocomplete Engine](https://github.com/lindseykantor/autocomplete-engine.git): Implemented an autocomplete engine in Java comparing brute-force, binary search, and hash-based approaches to efficently return top-k matching terms by prefix.
-- [Project Name](link): one-line description
 
 📫 Reach me at: lindsey.kantor@duke.edu
 
